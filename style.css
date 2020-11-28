@@ -1,0 +1,14 @@
+ textarea{
+    width:60%;
+    height:20vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+:root{
+    --primary-color:#F87171;
+}
+nav{
+    background-color: var(--primary-color);
+    text-align: center;
+}
